@@ -22,5 +22,5 @@ A working prototype is hosted for evaluation [here](https://dl.dropbox.com/u/888
 License
 =========
 
-This code is licensed under MIT License.
+This code is licensed under [Mozilla Public License 2.0](http://www.mozilla.org/MPL/2.0/).
 
